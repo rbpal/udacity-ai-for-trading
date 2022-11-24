@@ -1,9 +1,10 @@
 
 ## Udacity NANODEGREE PROGRAM : AI for Trading
 
-#### Term 1. Quantitative Trading
+### Term 1. Quantitative Trading
 
-  - Project 1: Trading with Momentum. In this project I learned to implement a trading strategy and tested for potential profit.
+- Project 1: Trading with Momentum.
+  In this project I learned to implement a trading strategy and tested for potential profit.
 
 - Project 2: Breakout Strategy.
   Implemented the breakout strategy, found and removed outliers, and tested for profit potential using Histogram and P-Value. 
